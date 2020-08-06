@@ -1,0 +1,11 @@
+dn: cn=Jamie Lannister,ou=people,dc=gameofthrones,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: Jamie Lannister
+sn: Lannister
+givenName: Jamie
+mail: jlannister@gameofthrones.com
+uid: jamie
+userPassword: jamie

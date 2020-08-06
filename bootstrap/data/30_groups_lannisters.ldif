@@ -1,0 +1,8 @@
+dn: cn=Lannisters,ou=people,dc=gameofthrones,dc=com
+objectclass: Group
+objectclass: top
+groupType: 2147483650
+cn: lannisters
+member: cn=Tyrion Lannister,ou=people,dc=gameofthrones,dc=com
+member: cn=Cersei Lannister,ou=people,dc=gameofthrones,dc=com
+member: cn=Jamie Lannister,ou=people,dc=gameofthrones,dc=com

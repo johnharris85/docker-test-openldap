@@ -1,0 +1,11 @@
+dn: cn=Cersei Lannister,ou=people,dc=gameofthrones,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: Cersei Lannister
+sn: Lannister
+givenName: Cersei
+mail: clannister@gameofthrones.com
+uid: cersei
+userPassword: cersei

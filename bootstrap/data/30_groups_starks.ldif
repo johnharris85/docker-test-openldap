@@ -1,0 +1,7 @@
+dn: cn=Starks,ou=people,dc=gameofthrones,dc=com
+objectclass: Group
+objectclass: top
+groupType: 2147483650
+cn: starks
+member: cn=Ned Stark,ou=people,dc=gameofthrones,dc=com
+member: cn=Arya Stark,ou=people,dc=gameofthrones,dc=com

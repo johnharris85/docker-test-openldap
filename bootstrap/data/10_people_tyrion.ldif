@@ -1,0 +1,11 @@
+dn: cn=Tyrion Lannister,ou=people,dc=gameofthrones,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: Tyrion Lannister
+sn: Lannister
+givenName: Tyrion
+mail: tlannister@gameofthrones.com
+uid: tyrion
+userPassword: tyrion

@@ -1,0 +1,11 @@
+dn: cn=Ned Stark,ou=people,dc=gameofthrones,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: Ned Stark
+sn: Stark
+givenName: Ned
+mail: nstark@gameofthrones.com
+uid: ned
+userPassword: ned

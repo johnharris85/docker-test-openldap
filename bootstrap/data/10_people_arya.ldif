@@ -1,0 +1,11 @@
+dn: cn=Arya Stark,ou=people,dc=gameofthrones,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: Arya Stark
+sn: Stark
+givenName: Arya
+mail: astark@gameofthrones.com
+uid: arya
+userPassword: arya
